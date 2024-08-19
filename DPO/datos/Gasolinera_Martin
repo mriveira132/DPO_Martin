@@ -1,0 +1,13 @@
+tipo:Extra:18000:500.0
+tipo:Corriente:16000:1000.0
+tipo:Petrolio:15000:300.0
+tipo:Diesel:9000:2000.0
+surtidor:Pablo:Extra:0.0:Corriente:0.0:Petrolio:0.0:Diesel:0.0
+surtidor:Julio:Extra:0.0:Corriente:0.0:Petrolio:0.0:Diesel:0.0
+surtidor:Juan:Extra:0.0:Corriente:0.0:Petrolio:0.0:Diesel:0.0
+surtidor:Martin:Extra:0.0:Corriente:0.0:Petrolio:0.0:Diesel:0.0
+empleado:Pablo:0
+empleado:Martin:0
+empleado:Juan:0
+empleado:Benjamin:0
+empleado:Julio:0
